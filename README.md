@@ -34,7 +34,7 @@ Report​ : All the gathered information is described in this report.
 Ankit is a technology expert with many years of expert experience building, managing, and automating systems at scale for blockchain, distributed systems, and storage projects. Wroked with various enterpise like Red Hat , BigChainDB, Coss excahnge and have blend of startup experience. He also got the grant from ​ EthereumFoundation ​ to work on Solidity language. There he wrote solidity code as well as maintained docs for the solidity programming language which is used by the developer across the globe. Ankit also founded Blockvidhya, a document verification startup service relying on the blockchain, which was incubated at IIT Mandi and part of YC startup school. He was also part of Entrepreneur First in Singapore where he was
 leveraging his blockchain and Open Finance skills. Currently, he is actively doing contributions in Ethereum, Polkadot & Near Protocol ecosystem, and doing research around Open Finance.
 
-## link
+## Auditor Link
 * [twitter](https://twitter.com/a4nkit)
 * [Github](https://github.com/aj07)
 * [Website](https://aj07.github.io/)
